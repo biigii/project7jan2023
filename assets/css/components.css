@@ -6,31 +6,27 @@
   margin-bottom: 100px;
 }
 
-main {
-  border: 10px solid #f99;
-  background-color: #f11;
+.row img {
+  width: 100%;
 }
 
-.text {
-  width: 50%;
-  float: left;
-  padding: 0 20px;
-}
-
-.content {
-  float: left;
-  width: 33.33%;
-  padding: 20px;
-}
-
-.footer {
-  height: 100px;
+footer {
+  height: 200px;
   background-color: #000;
-  color: #fff
+  color: #fff;
+  padding-top: 30px
 }
 
-.clearfix {
-  /* clear: both or right */
-  clear: left;
+.footer-link {
+  color: #fff;
+  display: block;
+  text-transform: capitalize;
+  margin-bottom: 5px;
 }
+
+.footer img {
+  width: 50%;
+}
+
+
 

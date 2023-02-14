@@ -6,29 +6,13 @@
   margin-bottom: 100px;
 }
 
-/* a.button {
-  text-decoration: none;
-  background-color: #00ff00;
-  width: 140px;
-  height: 50px;
-  line-height: 50px;
-  display: inline-block;
-  text-align: center;
-  text-transform: capitalize;
-  font-size: 24px;
-  color: #666607;
-  border: 2px solid;
-  border-radius: 4px;
-} */
-
-a.button  {
-  background-color: #00ff00;
-  text-decoration: none;
-  display: inline-block;
-  padding: 12px 30px;
-  color: #666607;
-  border: 2px solid;
-  border-radius: 4px;
-  text-transform: capitalize;
-  font-size: 24px;
+.photo-1 {
+  float: left;
+  margin: 10px;
 }
+
+.photo-2 {
+  float: right;
+}
+
+
